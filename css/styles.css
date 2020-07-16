@@ -1,0 +1,83 @@
+body {
+	/* font-family: 'Montserrat', sans-serif; */
+	text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	/* font-family: 'Montserrat', sans-serif; */
+	font-weight: 700;
+}
+
+p {
+	color: #8f8f8f;
+}
+
+/* Heading */
+.big-heading {
+	/* font-family: 'Montserrat', sans-serif; */
+	font-weight: 900;
+	size: 3.5rem;
+    line-height: 1.5;
+    padding-top: 100px;
+}
+
+/* containers */
+.container-fluid {
+	padding: 5% 10%;
+}
+
+/*navigation bar*/
+.navbar {
+	padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+	/* font-family: 'Ubuntu'; */
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+.nav-item {
+	padding: 0 18px;
+}
+
+.nav-link {
+	font-size: 1.2rem;
+}
+
+.title-image{
+    width: 100%;
+}
+
+/*Features Section*/
+#features {
+	position: relative;
+}
+
+.feature-title {
+	font-size: 1.5rem;
+}
+
+.feature-box {
+	padding: 5%;
+}
+
+.icon {
+	color: grey;
+	margin-bottom: 1rem;
+}
+
+.icon:hover {
+	color: lightgrey;
+}
+
+/* Shop Images */
+
+
+/* Footer */
+.social-icon{
+	margin: 20px 10px;
+}
+.grey-section{
+	background-color: lightgray;
+}
